@@ -40,3 +40,4 @@ group_user_totals_collection = db['group_user_total']
 top_global_groups_collection = db['top_global_groups']
 group_collection = db['group_collection']
 pm_users = db['total_pm_users']
+db.collection.find({ "friends": { "$exists": true } })
