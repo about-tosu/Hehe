@@ -17,7 +17,7 @@ logging.getLogger("pyrate_limiter").setLevel(logging.ERROR)
 LOGGER = logging.getLogger(__name__)
 
 OWNER_ID = ["6965147961","6848223695"]
-SUDO_USERS = ["6848223695","6965147961","5897492421","6745981296","1374057577","5458968679"]
+SUDO_USERS = ["6848223695","6965147961","5897492421","6745981296","1374057577","5458968679","6309921371"]
 GROUP_ID = -1002332668271
 TOKEN = "7749407611:AAEBsTIO6hRVNiD_tApKeOJVBYJAffGnMtc" 
 mongo_url = "mongodb+srv://snatcherwaifu0925:snatcherwaifu0925@snatcher0.fft3j.mongodb.net/?retryWrites=true&w=majority&appName=Snatcher0"
